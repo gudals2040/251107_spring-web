@@ -24,14 +24,14 @@
             <version>6.1.0</version>
             <scope>provided</scope>
         </dependency>
-        <!-- https://mvnrepository.com/artifact/org.springframework/spring-web -->
+        <!-- https://mvnrepository.com/artifact/org.springframework/spring-context -->
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-context</artifactId>
             <version>6.2.12</version>
         </dependency>
-<!--        web! 아님 주의하세요...-->
-        <!-- https://mvnrepository.com/artifact/org.springframework/spring-web -->
+        <!-- Web 아님! 주의하세요... -->
+        <!-- https://mvnrepository.com/artifact/org.springframework/spring-webmvc -->
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-webmvc</artifactId>
